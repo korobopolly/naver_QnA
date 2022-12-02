@@ -1,0 +1,3 @@
+﻿  question004.cpp
+D:\naver_QnA\question004\question004\question004.cpp(8,27): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  question004.vcxproj -> D:\naver_QnA\question004\x64\Debug\question004.exe
